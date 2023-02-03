@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pdlapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D6D0F0D0D09E4D3A9909050874DD5F5B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5705E71A37844EAA93E9E90810EE5DF2 }}
           package: .
