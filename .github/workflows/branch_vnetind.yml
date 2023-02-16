@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'VnetIND'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53139EF4FBB14B75A539CA9D699509C9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_385E4B36CA1B4088B026C3337BA1DDD9 }}
           package: .
